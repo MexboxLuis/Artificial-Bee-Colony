@@ -1,14 +1,14 @@
 # Welcome to Artificial Bee Colony (ABC) Optimizer 🐝
 
-Welcome to the **ArtificialBeeColony** repository. This is a Python implementation of the Artificial Bee Colony (ABC) optimization algorithm. Designed to solve complex, constrained non-linear optimization problems, it simulates the intelligent foraging behavior of a honey bee swarm to find global minimums or maximums efficiently.
+Welcome to the **ArtificialBeeColony** repository. This is a Python implementation of the Artificial Bee Colony (ABC) optimization algorithm. Designed as a **bio-inspired** meta-heuristic, it simulates the intelligent foraging behavior of a honey bee swarm to solve complex, constrained non-linear optimization problems and find global minimums or maximums efficiently.
 
 ---
 
 ## 📚 About The Project
 
-| Feature | Details |
+| Feature                | Details |
 | ---------------------- | ------- |
-| 🎯 **Purpose** | A robust meta-heuristic platform to optimize complex mathematical functions subject to multiple equality and inequality constraints. |
+| 🎯 **Purpose** | A robust, **bio-inspired** meta-heuristic platform to optimize complex mathematical functions subject to multiple equality and inequality constraints. |
 | ⚙️ **Architecture** | Object-Oriented Python design encapsulating the algorithm's state within the `ABC` class. |
 | 🧮 **Data Management** | High-performance matrix operations, random sampling, and array manipulations powered by `NumPy`. |
 | 🔄 **Core Operations** | Employed bee exploration, onlooker bee probabilistic selection (Waggle Dance), scout bee random search, and Deb's feasibility rules for constraint handling. |
