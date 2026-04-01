@@ -63,7 +63,7 @@ Subject to the constraints:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YourUsername/ArtificialBeeColony.git
+git clone https://github.com/MexboxLuis/ArtificialBeeColony.git
 cd ArtificialBeeColony
 ```
 
